@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Sureshkapoorsahnu
-- 👀 I’m interested in coding.
+- 👀 I’m interested in js.
 - 🌱 I’m currently learning js.
 - 💞️ I’m looking to collaborate on ...
 - Contact Email = Sureshkapoorsahnu@gmail.com
